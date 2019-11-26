@@ -4,7 +4,7 @@
 #include "TemperatureSensor.h"
 
 // Hardware pin definitions
-const int PinTemperature = 2;
+const int PinTemperature = A0;
 const int PinO2Sensor = 3;
 const int PinCO2Sensor = 4;
 const int PinpHSensor = 5;
